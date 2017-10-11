@@ -7,7 +7,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.ab.cf.RotateImage;
+import com.ab.cf.array.RotateImage;
 
 /**
  * @author berenyia
@@ -23,7 +23,7 @@ public class RotateImageTest {
 	}
 
 	/**
-	 * Test method for {@link com.ab.cf.RotateImage#rotateImage(int[][])}.
+	 * Test method for {@link com.ab.cf.array.RotateImage#rotateImage(int[][])}.
 	 */
 	@Test
 	public void testRotateImage1() {
@@ -45,7 +45,7 @@ public class RotateImageTest {
 	}
 
 	/**
-	 * Test method for {@link com.ab.cf.RotateImage#rotateImage(int[][])}.
+	 * Test method for {@link com.ab.cf.array.RotateImage#rotateImage(int[][])}.
 	 */
 	@Test
 	public void testRotateImage2() {
@@ -67,7 +67,7 @@ public class RotateImageTest {
 	}
 
 	/**
-	 * Test method for {@link com.ab.cf.RotateImage#rotateImage(int[][])}.
+	 * Test method for {@link com.ab.cf.array.RotateImage#rotateImage(int[][])}.
 	 */
 	@Test
 	public void testRotateImage3() {
@@ -89,7 +89,7 @@ public class RotateImageTest {
 	}
 
 	/**
-	 * Test method for {@link com.ab.cf.RotateImage#rotateImage(int[][])}.
+	 * Test method for {@link com.ab.cf.array.RotateImage#rotateImage(int[][])}.
 	 */
 	@Test
 	public void testRotateImage4() {
@@ -111,7 +111,7 @@ public class RotateImageTest {
 	}
 
 	/**
-	 * Test method for {@link com.ab.cf.RotateImage#rotateImage(int[][])}.
+	 * Test method for {@link com.ab.cf.array.RotateImage#rotateImage(int[][])}.
 	 */
 	@Test
 	public void testRotateImage5() {
@@ -133,7 +133,7 @@ public class RotateImageTest {
 	}
 
 	/**
-	 * Test method for {@link com.ab.cf.RotateImage#rotateImage(int[][])}.
+	 * Test method for {@link com.ab.cf.array.RotateImage#rotateImage(int[][])}.
 	 */
 	public void testRotateImage() {
 
